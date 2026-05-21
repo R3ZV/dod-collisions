@@ -1,7 +1,6 @@
-# Yamiyo
+# DOD
 
-Yamiyo is a Vampire Survival clone that aims to add mechanics from ARPGS like
-Path Of Exile.
+This is my attempt at trying to optimize collision calculation between entities in a game using data oriented design as part of a university course.
 
 # Optimization journey
 
